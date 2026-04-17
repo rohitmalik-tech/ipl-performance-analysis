@@ -32,13 +32,6 @@ It provides insights into team performance, player statistics, match results, an
 
 ---
 
-## 📂 Project Files
-
-* `ipl-performance-analysis.pbix` → Main Power BI dashboard file
-* `README.md` → Project documentation
-
----
-
 ## ▶️ How to Use
 
 1. Download the `.pbix` file
